@@ -15,7 +15,7 @@ So, in simple terms, RNNs are like memory wizards in the computer world. They're
 
 ## How Do Recurrent Neural Networks Work?
 
-Alright, imagine you have two kinds of smart robots: Feed-Forward Robot and Recurrent Robot. These robots are like computer brains that can learn stuff. Now, let's dive into how they work.
+Imagine you have two kinds of smart robots: Feed-Forward Robot and Recurrent Robot. These robots are like computer brains that can learn stuff. Now, let's dive into how they work.
 
 **Feed-Forward Robot:**
 Think of Feed-Forward Robot as a one-way street. It gets information, thinks about it, and gives you an answer. It's like reading a book from start to finish – it doesn't remember the past pages, and it's not great at predicting what happens next. Imagine telling it the word "neuron" letter by letter. By the time it hears "r," it forgets about "n," "e," and "u" – not so good at guessing the next letter.
@@ -54,7 +54,7 @@ These RNN types are like different modes of communication for your robot friends
 ## Backpropagation Through Time
 
 
-Alright, let's dive into this like we're exploring a robot training camp!
+Let's dive into this like we're exploring a robot training camp!
 
 **1. Backpropagation (BP):**
 Imagine you have a squad of robots in training. Each robot is like a tiny brain trying to learn something new. Backpropagation is like the coach guiding them. The coach checks how well they're doing, figures out where they made mistakes, and then gives them specific instructions to get better. It's like correcting your friends when they're learning a new game – you tell them what went wrong so they can improve.
